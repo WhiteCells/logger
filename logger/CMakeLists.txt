@@ -2,6 +2,7 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(SRC
+    logger.cc
     main.cc
 )
 
