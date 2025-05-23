@@ -1,0 +1,3 @@
+[submodule "thrid_party/spdlog"]
+	path = thrid_party/spdlog
+	url = https://github.com/gabime/spdlog.git
